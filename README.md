@@ -15,16 +15,16 @@ This is a React application called "Personal Bookshelf" that allows users to sea
 - CSS
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/yourusername/personal-bookshelf.git`
+1. Clone the repository: `git clone https://github.com/Tarunchowdam/personal-bookshelf`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm start`
 4. Open your browser and navigate to `http://localhost:3000` to view the app.
 
 ## Live Demo
-Check out the live demo [here](https://your-netlify-app.netlify.app).
+Check out the live demo [here](https://searchbooksbytarun.netlify.app/).
 
 ## Credits
-- This project was created by [Your Name].
+- This project was created by [CHOWDAM TARUNKUMAR].
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
